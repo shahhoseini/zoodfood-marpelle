@@ -1,6 +1,8 @@
 # zoodfood-marpelle
 a calculation on maximum point achievable in zoodfood marpelle game on May 2015
 
+https://www.zoodfood.com/landing/maropelle
+
 result of calculation for 1 to 60 turns:
 
 1 turn: 1580
